@@ -1,11 +1,14 @@
 {
-    'name': 'Cron Time Windows - Cron Scheduler for Business Hours & Fixed Times',
-    'version': '19.0.1.0.0',
-    'summary': 'Scheduled actions scheduler: run each cron only within time windows '
-               '(business hours, office hours, pause at night) with its own frequency '
-               'per window, or at fixed times daily, weekly and monthly. Cron '
-               'timezone and daylight saving aware, templates, apply to many '
-               'scheduled actions at once',
+    'name': 'Cron Time Windows | Cron Scheduler | Cron Job Business Hours | Scheduled Actions at Fixed Times',
+    'version': '19.0.1.0.1',
+    'summary': 'Cron job scheduler for Odoo scheduled actions (ir.cron): run each '
+               'cron only during business hours, office hours or working hours, with '
+               'its own frequency per time window, pause it at night or on weekends, '
+               'or run it at fixed times: daily, weekly or monthly at a specific '
+               'time. Cron timetable with timezone and daylight saving support, '
+               'templates, apply to many scheduled actions at once. Also: cron time '
+               'handler, cron interval, schedule a cron job, scheduled jobs, time '
+               'window scheduler',
     'category': 'Extra Tools',
     'author': 'WebThreenity',
     'website': 'https://webthreenity.netlify.app',
