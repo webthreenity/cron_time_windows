@@ -242,6 +242,7 @@
     'category': 'Extra Tools',
     'author': 'WebThreenity',
     'website': 'https://webthreenity.netlify.app',
+    'live_test_url': 'https://webthreenity.netlify.app/en/trial/cron-time-windows/',
     'support': 'elouafiabderrahmane2002@gmail.com',
     'license': 'LGPL-3',
     'depends': ['base'],
